@@ -1,0 +1,34 @@
+h1{
+    color: red;
+    font-size: 100px;
+    font-family: algerian;
+}
+
+body {
+    text-align: center;
+}
+
+canvas {
+    border-radius: 75px;
+    border-width: 10px;
+    border-color: gold;
+    border-style: ridge;
+}
+
+#danger {
+    color: darkred;
+    font-size: 20px;
+    font-family: Berlin Sans FB;
+}
+
+#danger-note-1 {
+    color: black;
+    font-size: 20px;
+    font-family: Berlin Sans FB;
+}
+
+#danger-note {
+    color: black;
+    font-size: 30px;
+    font-family: Tahoma;
+}
